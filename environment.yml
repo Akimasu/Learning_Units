@@ -24,4 +24,3 @@ dependencies:
     - import-ipynb
     - ipython-extensions
     - jupytercards
-prefix: /opt/anaconda3
