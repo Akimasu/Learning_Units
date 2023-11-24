@@ -8,7 +8,7 @@ dependencies:
   #- anaconda==2022.10=py39_0
   #- anaconda-navigator
   #- navigator-updater
-  - numpy as np
+  - numpy
   - pip
   - pandas
   - jupyterquiz
@@ -18,15 +18,14 @@ dependencies:
   - import-ipynb
   - ipython-extensions
   - jupytercards
-  - ipywidgets import TwoByTwoLayout
-  - jupyterquiz import display_quiz 
-  - jupytercards import display_flashcards
-  - import ipywidgets as widgets
+  - ipywidgets.TwoByTwoLayout
+  - jupyterquiz.display_quiz 
+  - jupytercards.display_flashcards
   - md2json
   - json
-  - IPython.display import HTML
+  - IPython.display.HTML
   - random
-  - matplotlib.pyplot as plt
+  - matplotlib.pyplot
   - import_ipynb
   - md2json
 
