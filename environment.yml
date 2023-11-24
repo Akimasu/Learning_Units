@@ -10,13 +10,14 @@ dependencies:
   #- navigator-updater
   - numpy
   - pip
-  - pip:
-    - pandas
-    - matplotlib
-    - jupyterquiz
-    - md2json
-    - hide_code
-    - nbconvert
-    - import-ipynb
-    - ipython-extensions
-    - jupytercards
+  - pandas
+  - matplotlib
+  - jupyterquiz
+  - md2json
+  - hide_code
+  - nbconvert
+  - import-ipynb
+  - ipython-extensions
+  - jupytercards
+
+
