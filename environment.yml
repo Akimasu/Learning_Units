@@ -2,9 +2,7 @@ name: base
 channels:
   - defaults
 dependencies:
-  - conda
-  - python=3.9
-  - python.app
+  #- conda
   #- conda-env
   #- conda-build
   #- conda-verify
@@ -24,4 +22,3 @@ dependencies:
     - import-ipynb
     - ipython-extensions
     - jupytercards
-prefix: /opt/anaconda3
