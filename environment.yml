@@ -24,7 +24,7 @@ dependencies:
     - jupytercards
     - md2json
     - json
-    - IPython.display
+    - IPython
     - random
     - matplotlib
     - import_ipynb
