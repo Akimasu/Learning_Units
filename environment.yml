@@ -19,14 +19,14 @@ dependencies:
     - import-ipynb
     - ipython-extensions
     - jupytercards
-    - ipywidgets.TwoByTwoLayout
-    - jupyterquiz.display_quiz 
-    - jupytercards.display_flashcards
+    - ipywidgets
+    - jupyterquiz
+    - jupytercards
     - md2json
     - json
-    - IPython.display.HTML
+    - IPython.display
     - random
-    - matplotlib.pyplot
+    - matplotlib
     - import_ipynb
     - md2json
   
