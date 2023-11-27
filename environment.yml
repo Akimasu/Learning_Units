@@ -10,23 +10,23 @@ dependencies:
   #- navigator-updater
   - numpy
   - pip
-  - pandas
-  - jupyterquiz
-  - md2json
-  - hide_code
-  - nbconvert
-  - import-ipynb
-  - ipython-extensions
-  - jupytercards
-  - ipywidgets
-  - jupyterquiz
-  - jupytercards
-  - md2json
-  - json
-  - IPython
-  - random
-  - matplotlib
-  - import_ipynb
-  - md2json
+  - pip:
+    - pandas
+    - jupyterquiz
+    - md2json
+    - hide_code
+    - nbconvert
+    - import-ipynb
+    - ipython-extensions
+    - jupytercards
+    - ipywidgets
+    - jupytercards
+    - md2json
+    - json
+    - IPython
+    - random
+    - matplotlib
+    - import_ipynb
+    - md2json
   
   
