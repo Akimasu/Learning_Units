@@ -1,0 +1,105 @@
+[
+    {
+        "question": "What could be considered a sensitive variable or attribute?",
+        "code": "",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Age",
+                "correct": true,
+                "feedback": "Yes. This could be a sensitive variable."
+            },
+            {
+                "answer": "Language",
+                "correct": true,
+                "feedback": "Yes. This could be a sensitive variable."
+            },
+    
+            {
+                "answer": "Sex",
+                "correct": true,
+                "feedback": "Yes. This could be a sensitive variable."
+            },
+            {
+                "answer": "Race",
+                "correct": true,
+                "feedback": "Yes. This could be a sensitive variable."
+            },
+            {
+                "answer": "Religion",
+                "correct": true,
+                "feedback": "Yes. This could be a sensitive variable."
+            },
+            {
+                "answer": "Biometrics",
+                "correct": true,
+                "feedback": "Yes. This could be a sensitive variable."
+            },
+            {
+                "answer": "Homeland / origin",
+                "correct": true,
+                "feedback": "Yes. This could be a sensitive variable."
+            },
+            {
+                "answer": "Political opinion",
+                "correct": true,
+                "feedback": "Yes. This could be a sensitive variable."
+            },
+            {
+                "answer": "Sexual orientation",
+                "correct": true,
+                "feedback": "Yes. This could be a sensitive variable."
+            },
+            {
+                "answer": "Disability",
+                "correct": true,
+                "feedback": "Yes. This could be a sensitive variable."
+            },
+            {
+                "answer": "Date of Application",
+                "correct": false,
+                "feedback": "No. This is most likely no sensitive variable."
+            },
+            {
+                "answer": "Having children / Parentage",
+                "correct": true,
+                "feedback": "Yes. This is not an obvious case, it depends highly on the context."
+            },
+            {
+                "answer": "Smoker",
+                "correct": true,
+                "feedback": "This is not an obvious case, it depends highly on the context."
+            },
+            {
+                "answer": "Amount of applications",
+                "correct": false,
+                "feedback": "No. This is most likely no sensitive variable."
+            },
+            {
+                "answer": "Years of work experience",
+                "correct": true,
+                "feedback": "This is not an obvious case, it depends highly on the context. On one hand, experience is an important factor to judge expertise, but indirectly this could include judging by age. It depends."
+            },
+            {
+                "answer": "Highest degree earned",
+                "correct": false,
+                "feedback": "No. This is most likely no sensitive variable."
+            },
+            {
+                "answer": "Available work days",
+                "correct": false,
+                "feedback": "No. This is most likely no sensitive variable."
+            },
+            {
+                "answer": "Experience with specific work tools",
+                "correct": false,
+                "feedback": "No. This is most likely no sensitive variable."
+            },
+            {
+                "answer": "Experience with statistics",
+                "correct": false,
+                "feedback": "No. This is most likely no sensitive variable."
+            }
+        ]
+    }
+]

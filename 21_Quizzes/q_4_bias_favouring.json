@@ -1,0 +1,19 @@
+[
+    {
+        "question": "Can there be good discrimination?",
+        "code": "",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Yes",
+                "correct": false,
+                "feedback": "This is a tricky one. It depends on the understanding of discrimination, which we defined based on it being unfair."
+            },
+            {
+                "answer": "No",
+                "correct": true,
+                "feedback": "This is a tricky one. We definde dsicrimination as being unfair. Examples like people with disabilities shall not be disfavoured, but in comparison to sex, race and the other in article 3 mentioned attributes, it is not excluded to be favoured due to disability. As per our definition this it is mostly not unfair to favour in such cases. Depending on the definition of discrimination, the answer could differ."
+            }
+        ]
+    }
+]

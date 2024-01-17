@@ -1,0 +1,105 @@
+[
+    {
+        "question": "What is considered a protected variable or attribute per the german law?",
+        "code": "",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Age",
+                "correct": true,
+                "feedback": "Yes. This is a protected variable."
+            },
+            {
+                "answer": "Language",
+                "correct": true,
+                "feedback": "Yes. This is a protected variable."
+            },
+    
+            {
+                "answer": "Sex",
+                "correct": true,
+                "feedback": "Yes. This is a protected variable."
+            },
+            {
+                "answer": "Race",
+                "correct": true,
+                "feedback": "Yes. This is a protected variable."
+            },
+            {
+                "answer": "Religion",
+                "correct": true,
+                "feedback": "Yes. This is a protected variable. Specifically, it is relogion or faith."
+            },
+            {
+                "answer": "Biometrics",
+                "correct": true,
+                "feedback": "No. This is not a protected variable."
+            },
+            {
+                "answer": "Homeland / origin",
+                "correct": true,
+                "feedback": "Yes. This is a protected variable."
+            },
+            {
+                "answer": "Political opinion",
+                "correct": true,
+                "feedback": "Yes. This is a protected variable."
+            },
+            {
+                "answer": "Sexual orientation",
+                "correct": false,
+                "feedback": "No. This is not protected by Article 3."
+            },
+            {
+                "answer": "Disability",
+                "correct": true,
+                "feedback": "Yes. This is a protected variable."
+            },
+            {
+                "answer": "Date of Application",
+                "correct": false,
+                "feedback": "No. This is not a protected variable."
+            },
+            {
+                "answer": "Having children / Parentage",
+                "correct": true,
+                "feedback": "Yes. This is a protected variable."
+            },
+            {
+                "answer": "Smoker",
+                "correct": false,
+                "feedback": "No. This is not a protected variable."
+            },
+            {
+                "answer": "Amount of applications",
+                "correct": false,
+                "feedback": "No. This is not a protected variable."
+            },
+            {
+                "answer": "Years of work experience",
+                "correct": false,
+                "feedback": "No. This is not a protected variable."
+            },
+            {
+                "answer": "Highest degree earned",
+                "correct": false,
+                "feedback": "No. This is not a protected variable."
+            },
+            {
+                "answer": "Available work days",
+                "correct": false,
+                "feedback": "No. This is not a protected variable."
+            },
+            {
+                "answer": "Experience with specific work tools",
+                "correct": false,
+                "feedback": "No. This is not a protected variable."
+            },
+            {
+                "answer": "Experience with statistics",
+                "correct": false,
+                "feedback": "No. This is not a protected variable."
+            }
+        ]
+    }
+]
